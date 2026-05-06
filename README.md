@@ -22,9 +22,9 @@ Based in Almaty 🇰🇿 | 29 y.o. | Aiming for my first dev job
 
 ---
 
-## 📈 Stats
+## 📈 About
 
-![Kaisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaisar970225&show_icons=true&theme=default&hide_border=true)
+![Kaisar's cv page]([https://github-readme-stats.vercel.app/api?username=kaisar970225&show_icons=true&theme=default&hide_border=true](https://kaisar970225.github.io/rsschool-cv/))
 
 ---
 
