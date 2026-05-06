@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I'm Kaisar 👋
 
-<!--
-**kaisar970225/kaisar970225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer in training, currently studying through RS School.
+Based in Almaty 🇰🇿 | 29 y.o. | Aiming for my first dev job
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies I'm learning
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔗 [coming soon] | RS School assignments | HTML, CSS, JS |
+
+---
+
+## 📈 Stats
+
+![Kaisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaisar970225&show_icons=true&theme=default&hide_border=true)
+
+---
+
+## 🎯 Goals for 2025–2026
+
+- [x] Start learning HTML & CSS
+- [x] Learn JavaScript basics
+- [x] Learn Git & command line
+- [ ] Complete RS School Stage 1
+- [ ] Build 3 portfolio projects
+- [ ] Get my first frontend job
+
+---
+
+> "Every expert was once a beginner."
+
+📬 Open to internships and junior positions
