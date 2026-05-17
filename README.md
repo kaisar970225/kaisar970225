@@ -14,17 +14,11 @@ Based in Almaty 🇰🇿 | 29 y.o. | Aiming for my first dev job
 
 ---
 
-## 📂 Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔗 [coming soon] | RS School assignments | HTML, CSS, JS |
-
 ---
 
 ## 📈 About
 
-![Kaisar's cv page](https://kaisar970225.github.io/rsschool-cv/).
+https://kaisar970225.github.io/rsschool-cv/
 
 ---
 
